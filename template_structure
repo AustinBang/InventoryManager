@@ -1,0 +1,9 @@
+docs/
+  requirements.md
+  architecture.md
+  design.md
+  decisions.md
+src/
+tests/
+.github/
+README.md
